@@ -99,9 +99,9 @@ const SocialLinks = ({ className = "" }: SocialLinksProps) => {
     const socials: SocialLink[] = [
         {
             id: "github",
-            href: "https://github.com/zhasumit/",
+            href: "https://github.com/sumitjhaa/",
             platform: "GitHub",
-            username: "@zhasumit",
+            username: "@sumitjhaa",
             icon: <RiGithubLine color="#181717" size={20} />,
             color: "#181717",
             text: "GitHub"

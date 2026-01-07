@@ -3,7 +3,7 @@
         "name": "Kurakani",
         "image": "/projects/chat.png",
         "description": "Full stack chat application with MERN stack, React, NodeJs, ExpressJs, mongoDB as the database modelling zustand store as state manager, people can make chat with individual contacts and group and also upload all the files and documents.",
-        "github": "https://github.com/zhasumit/kurakani",
+        "github": "https://github.com/sumitjhaa/kurakani",
         "techstack": [
             {
                 "name": "React",
@@ -31,7 +31,7 @@
         "name": "Tick",
         "image": "/projects/tick.png",
         "description": "Full stack sticky notes app with react front end and appwrite as backend as service. User can drag and drop ticks and move around and change the color of the ticks without overloading the requests to appwrite.",
-        "github": "https://github.com/zhasumit/Tick",
+        "github": "https://github.com/sumitjhaa/Tick",
         "techstack": [
             {
                 "name": "React",
@@ -51,7 +51,7 @@
         "name": "Malware detector",
         "image": "/projects/vigilante.png",
         "description": "A machine model based vigilant for CI/CD pipelines. Data mining techniques like decision tree, buckieting, random forest, creates the model for malware on URL and Program Executable files.",
-        "github": "https://github.com/zhasumit/Malware-detector-ML",
+        "github": "https://github.com/sumitjhaa/Malware-detector-ML",
         "techstack": [
             {
                 "name": "Python",

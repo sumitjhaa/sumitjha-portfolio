@@ -96,7 +96,7 @@ export const metadata: Metadata = {
     "msapplication-TileColor": "#000000",
     "theme-color": "#000000",
     "contact-email": "sumitjha1618@gmail.com",
-    "contact-github": "https://github.com/zhasumit",
+    "contact-github": "https://github.com/sumitjhaa",
     "contact-linkedin": "https://linkedin.com/in/sumitjha1618",
     "contact-twitter": "https://twitter.com/__sumitjha",
   },
@@ -156,7 +156,7 @@ export default function RootLayout({
                 }
               },
               "sameAs": [
-                "https://github.com/zhasumit",
+                "https://github.com/sumitjhaa",
                 "https://linkedin.com/in/sumitjha1618",
                 "https://twitter.com/__sumitjha"
               ],

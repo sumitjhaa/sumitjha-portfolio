@@ -91,9 +91,9 @@ type SocialLink = {
 const socials: SocialLink[] = [
     {
         id: "github",
-        href: "https://github.com/zhasumit/",
+        href: "https://github.com/sumitjhaa/",
         platform: "GitHub",
-        username: "@zhasumit",
+        username: "@sumitjhaa",
         icon: <LuGithub className="h-5 w-5 md:h-6 md:w-6" />,
         color: "#333333",
     },
