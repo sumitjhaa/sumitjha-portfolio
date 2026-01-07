@@ -135,7 +135,8 @@ const SocialLinks = ({ className = "" }: SocialLinksProps) => {
         },
         {
             id: "resume",
-            href: "https://drive.google.com/file/d/1LrUGlH_wrdqLusxDumFc7OEZWJWEgbpq/view?usp=sharing",
+            // href: "https://drive.google.com/file/d/1LrUGlH_wrdqLusxDumFc7OEZWJWEgbpq/view?usp=sharing",
+            href: "https://drive.google.com/file/d/1fyeqy3kZTdawFiN7A_rPKLTyZS0Mj35S/view?usp=sharing",
             platform: "Resume",
             username: "Sumit Jha",
             icon: <PiSuitcaseDuotone color="#4682B4" size={20} />,

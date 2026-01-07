@@ -123,7 +123,8 @@ const socials: SocialLink[] = [
     },
     {
         id: "resume",
-        href: "https://drive.google.com/file/d/1LrUGlH_wrdqLusxDumFc7OEZWJWEgbpq/view?usp=sharing",
+        // href: "https://drive.google.com/file/d/1LrUGlH_wrdqLusxDumFc7OEZWJWEgbpq/view?usp=sharing",
+        href: "https://drive.google.com/file/d/1fyeqy3kZTdawFiN7A_rPKLTyZS0Mj35S/view?usp=sharing",
         platform: "Resume",
         username: "Sumit Jha",
         icon: <PiSuitcaseDuotone className="h-5 w-5 md:h-6 md:w-6" />,
